@@ -1,4 +1,4 @@
-    
+    <script type=>
       test ="Sun Feb 10 2019 08:20:00 GMT+0100 (heure normale d’Europe centrale)";
        test3 ="Sun Feb 10 2019 08:30:00 GMT+0100 (heure normale d’Europe centrale)";
 		var result = [];
@@ -25,3 +25,4 @@
 				result.push(eventObj);
 			//}*/
      		callback(result);
+			 </script>

@@ -1,7 +1,7 @@
 <?php session_start();
 if($_SESSION['id_user']) { ?>
 <div class="dashboard-main-wrapper">
-<?php $link="http://localhost/Cabinet?dmnd=" ;?>
+<?php $link="http://localhost:8080/Cabinet?dmnd=" ;?>
         <!-- ============================================================== -->
         <!-- navbar -->
         <!-- ============================================================== -->
@@ -170,7 +170,7 @@ if($_SESSION['id_user']) { ?>
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                             Copyright © 2018/2019 ELMOTAWAKKIL
+                             Copyright © 2021/2022 SARROU MED
                         </div>
             
                     </div>
